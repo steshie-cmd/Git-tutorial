@@ -1,3 +1,5 @@
 Hello World!
 
-My name is Stella Mukuhi
+My name is Stella Mukuhi. 
+
+I am a Ruby programmer / developer and I love coding!
